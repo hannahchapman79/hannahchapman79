@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hannahchapman79
+- 👋 Hi, I’m Hannah Chapman
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently working on an AWS Certificate and a one-stop Bali app for meetups, events, and AI-powered travel plans.
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/hannah-chapman-13360097/) | [Portfolio Website](https://hannahchapman.netlify.app/)
