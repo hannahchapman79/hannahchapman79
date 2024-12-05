@@ -1,4 +1,3 @@
-### About Me
 👋  Hi, I’m Hannah Chapman<br>
 👀  I’m interested in Full Stack Development<br>
 🌱  I’m currently working on an AWS Certificate and a one-stop Bali app for meetups, events, and AI-powered travel plans.<br>
