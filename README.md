@@ -1,6 +1,6 @@
 👋  Hi, I’m Hannah Chapman<br>
 👀  I’m interested in Full Stack Development<br>
-🌱  I’m currently working on an AWS Certificate and a one-stop Bali app for meetups, events, and AI-powered travel plans.<br>
+🌱  I’m currently a one-stop Bali app for meetups, events, and AI-powered travel plans.<br>
 📫  How to reach me [LinkedIn](https://www.linkedin.com/in/hannah-chapman-13360097/) | [Portfolio Website](https://hannahchapman.netlify.app/)<br>
 😄  Pronouns: she/her<br>
 🚀  Fun fact: I can read the Korean alphabet, and I’m always curious - I love reading about new tech, business, and astrophysics!<br>
@@ -20,6 +20,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 ![NodeJS](https://img.shields.io/badge/node.js-%23518F4C?style=for-the-badge&logo=node.js&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23323330.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -41,7 +42,6 @@
 ![Accessibility](https://img.shields.io/badge/Accessibility-%230170EA.svg?style=for-the-badge&logo=Accessibility&logoColor=white)
 
 ### 📚 I'm currently learning:
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-5469d4?style=for-the-badge&logo=stripe&logoColor=ffffff)
