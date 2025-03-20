@@ -1,6 +1,6 @@
 👋  Hi, I’m Hannah Chapman<br>
 👀  I’m interested in Full Stack Development<br>
-🌱  I’m currently working on a freelance project, building an events platform for a community website.<br>
+🌱  I’m currently working on a freelance project, building a full-stack community events platform.<br>
 📫  How to reach me [LinkedIn](https://www.linkedin.com/in/hannah-chapman-13360097/) | [Portfolio Website](https://hannahchapman.netlify.app/)<br>
 😄  Pronouns: she/her<br>
 🚀  Fun fact: I can read the Korean alphabet, and I’m always curious - I love reading about new tech, business, and astrophysics!<br>
