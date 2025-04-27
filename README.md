@@ -1,5 +1,5 @@
 👋  Hi, I’m Hannah Chapman<br>
-💡  Passionate about Full Stack Development<br>
+💡  Passionate about Full Stack Development & E-commerce<br>
 🌱  I’m working BaliFlux, a Next.js App that combines AI & local knowledge to generate the perfect itinerary for Bali, Indonesia.<br>
 🎓  Career & academic background: Business & e-commerce specialist turned developer.<br>
 📫  How to reach me [LinkedIn](https://www.linkedin.com/in/hannah-chapman-13360097/) | [Portfolio Website](https://hannahchapman.netlify.app/)<br>
